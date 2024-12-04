@@ -6,7 +6,7 @@ React Native Map components for iOS + Android
 
 This project is being maintained by a small group of people, and any help with issues and pull requests are always appreciated. If you are able and willing to contribute, please read the [guidelines](./CONTRIBUTING.md).
 
-## Installation
+## Installation Hey
 
 See [Installation Instructions](docs/installation.md).
 
